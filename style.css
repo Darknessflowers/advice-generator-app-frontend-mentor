@@ -435,7 +435,8 @@ body {
 }
 
 .quote,
-.quote p {
+.quote p,
+.quote h1 {
   font-size: 28px;
   letter-spacing: -0.29988px;
   line-height: 38px;
