@@ -478,6 +478,7 @@ span.divider::before {
   position: absolute;
   bottom: 15px;
   opacity: 0.4;
+  font-size: 0.7rem;
 }
 
 .attribution a {
